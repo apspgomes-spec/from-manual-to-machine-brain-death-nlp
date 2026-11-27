@@ -1,5 +1,9 @@
 # From Manual to Machine: Development and Internal Validation of an NLP-Based Prediction Model for Brain Death Using Admission CT Reports
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24608173.svg)](https://doi.org/10.5281/zenodo.24608173)
+
+**Software archive (Version 1.0.0):** https://doi.org/10.5281/zenodo.24608174
+
 **Open-source research software — Version 1.0.0 | Study cohort: 161 patients (94 BD, 67 NBD)**
 
 Gomes A, França A, Sousa E, Gonçalves A, Fernandes AP. *Diagnostics* 2026;16:3995. https://doi.org/10.3390/diagnostics16233995.
