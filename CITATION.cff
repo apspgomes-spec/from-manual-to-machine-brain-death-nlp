@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "Please cite the associated article when using this research code."
+title: "From Manual to Machine: Brain Death Prediction NLP Research Code"
+type: software
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Gomes
+    given-names: António
+    orcid: "https://orcid.org/0000-0003-3976-238X"
+  - family-names: França
+    given-names: Ana
+  - family-names: Sousa
+    given-names: Eduardo
+  - family-names: Gonçalves
+    given-names: António
+  - family-names: Fernandes
+    given-names: Ana Paula
+repository-code: "https://github.com/apspgomes-spec/from-manual-to-machine-brain-death-nlp"
+preferred-citation:
+  type: article
+  title: "From Manual to Machine: Development and Internal Validation of an NLP-Based Prediction Model for Brain Death Using Admission CT Reports"
+  authors:
+    - family-names: Gomes
+      given-names: António
+    - family-names: França
+      given-names: Ana
+    - family-names: Sousa
+      given-names: Eduardo
+    - family-names: Gonçalves
+      given-names: António
+    - family-names: Fernandes
+      given-names: Ana Paula
+  journal: Diagnostics
+  volume: 16
+  year: 2026
+  doi: "10.3390/diagnostics16233995"
