@@ -1,6 +1,6 @@
 # From Manual to Machine: Development and Internal Validation of an NLP-Based Prediction Model for Brain Death Using Admission CT Reports
 
-**Research software — release candidate for private review | Study cohort: 161 patients (94 BD, 67 NBD)**
+**Open-source research software — Version 1.0.0 | Study cohort: 161 patients (94 BD, 67 NBD)**
 
 Gomes A, França A, Sousa E, Gonçalves A, Fernandes AP. *Diagnostics* 2026;16:3995. https://doi.org/10.3390/diagnostics16233995.
 
@@ -76,7 +76,7 @@ Temporal evaluation uses joint period/outcome stratification in the restricted p
 
 ## Status and intended use
 
-Research only; not a clinical diagnostic tool or a basis for decisions about treatment or organ donation. No external validation is established. The preprocessing implementation is not certified as byte-identical to the archived V5 text. Software authors (in article order): António Gomes, Ana França, Eduardo Sousa, António Gonçalves and Ana Paula Fernandes. Maintainer: apspgomes-spec. Licensed under the MIT License. See LICENSE. The software is prepared for release after final repository review.
+Research only; not a clinical diagnostic tool or a basis for decisions about treatment or organ donation. No external validation is established. The preprocessing implementation is not certified as byte-identical to the archived V5 text. Software authors (in article order): António Gomes, Ana França, Eduardo Sousa, António Gonçalves and Ana Paula Fernandes. Maintainer: apspgomes-spec. Licensed under the MIT License. See LICENSE. This software accompanies the published article and is made publicly available to support methodological transparency and further research.
 
 ## Verification status
 
